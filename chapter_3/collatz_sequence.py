@@ -4,7 +4,7 @@ def collatz(number: int) -> int:
 
     Args:
         number (int): The number to start the collatz sequence with.
-    
+
     Returns:
         int: collatz number
     """

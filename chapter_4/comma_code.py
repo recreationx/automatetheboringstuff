@@ -4,7 +4,7 @@ def comma_code(arr: list) -> str:
 
     Args:
         arr (list): The list of values to be comma separated.
-    
+
     Returns:
         str: comma separated values
     """
